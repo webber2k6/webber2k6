@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi 👋, my name is Dennis!
 
-<!--
-**webber2k6/webber2k6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Since 2018 I'm a freelance C# and PHP developer focused on backend programming.
 
-Here are some ideas to get you started:
+### I work with the following technologies:
+* C# .NET [Core]
+  * ASP.NET
+  * Entity Framework
+  * WPF
+* PHP
+  * Laravel
+  * Symfony
+  * Yii
+* Databases
+  * MS SQL (T-SQL)
+  * MySQL
+  * 🔭 exploring new technologies
+* Environment
+  * Docker
+  * GitGraken
+  * JetBrains Toolchain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can reach me 📫 on my [Website](https://dennis-wilke.de).

@@ -29,5 +29,3 @@ Most of my work happens in regulated industries such as finance, insurance, medi
   * JetBrains toolchain, GitKraken
 
 You can reach me 📫 on my [website](https://dennis-wilke.de) or on [LinkedIn](www.linkedin.com/in/dennis-wilke-dw).
-
-![Dennis' GitHub stats](https://github-readme-stats.vercel.app/api?username=webber2k6&show_icons=true&count_private=true)
